@@ -1,0 +1,5 @@
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\ENTITY\obj\Debug\ENTITY.pdb

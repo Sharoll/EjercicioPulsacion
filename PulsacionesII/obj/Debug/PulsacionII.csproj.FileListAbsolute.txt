@@ -1,0 +1,13 @@
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\PulsacionesII.exe.config
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\PulsacionesII.exe
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\PulsacionesII.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\BLL.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\ENTITY.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\DAL.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\BLL.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\ENTITY.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\bin\Debug\DAL.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\obj\Debug\PulsacionII.csprojAssemblyReference.cache
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\obj\Debug\PulsacionII.csproj.CopyComplete
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\obj\Debug\PulsacionesII.exe
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\PulsacionesII\obj\Debug\PulsacionesII.pdb

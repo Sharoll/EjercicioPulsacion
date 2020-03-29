@@ -1,0 +1,8 @@
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\bin\Debug\DAL.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\bin\Debug\DAL.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\bin\Debug\ENTITY.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\obj\Debug\DAL.dll
+C:\Users\Sharoll Araujo\source\repos\PulsacionesII\DAL\obj\Debug\DAL.pdb
